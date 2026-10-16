@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Raw input data (not redistributed) - see data/README.md
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
